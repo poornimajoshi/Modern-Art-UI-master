@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="course.labs.modernuilab.MainActivity" >
+
+    <item
+        android:id="@+id/action_more_info"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_more_info"/>
+
+</menu>
+<!-- From: file:/Users/poornimajoshi/Downloads/Coursera-Modern-Art-UI-master1/app/src/main/res/menu/main.xml -->

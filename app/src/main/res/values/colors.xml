@@ -1,0 +1,7 @@
+<resources>
+
+   <color name="theme_color_primary">#829daf</color>
+   <color name="theme_color_primary_dark">#617683</color>
+   <color name="theme_color_accent">#accade</color>
+
+</resources>
